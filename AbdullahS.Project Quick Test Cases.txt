@@ -1,0 +1,27 @@
+Input: N B B B B B
+Output: 
+Parking Failed. Final state:
+Level0:  BBBBBlcccc cccccccccc ccccmmmmmm
+Level1:  BBBBBlcccc cccccccccc ccccmmmmmm
+Level2:  BBBBBlcccc cccccccccc ccccmmmmmm
+Level3:  BBBBBlcccc cccccccccc ccccmmmmmm
+Level4:  BBBBBlcccc cccccccccc ccccmmmmmm
+
+Input: Y 3 30 5 .2 .2 B C R B C M C B M T
+Output: 
+Final State Upon Termination:
+Level0:  CMCMl Ccccc ccccc ccccc ccccm mmmmm
+Level1:  BBBBB lcccc ccccc ccccc ccccm mmmmm
+Level2:  lllll lcccc ccccc ccccc ccccm mmmmm
+
+Input: Y 6 50 11 .3 .2 B B B R B C R C R B T
+Output:
+Final State Upon Termination:
+Level0:  MlllllllllB BBBBccccccc ccccccccccc cccccccmmmm mmmmmm
+Level1:  lllllllllll llllccccccc ccccccccccc cccccccmmmm mmmmmm
+Level2:  lllllllllll llllccccccc ccccccccccc cccccccmmmm mmmmmm
+Level3:  lllllllllll llllccccccc ccccccccccc cccccccmmmm mmmmmm
+Level4:  lllllllllll llllccccccc ccccccccccc cccccccmmmm mmmmmm
+Level5:  lllllllllll llllccccccc ccccccccccc cccccccmmmm mmmmmm
+
+*Note this can be applied without restriction with the working results
